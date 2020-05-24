@@ -1,0 +1,90 @@
+.header-area {
+    background-image: url(images/top-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    text-align: center;
+}
+.nav-area {
+    padding-top: 30px;
+}
+.header-text {
+    padding: 290px 0;
+}
+.fa-angle-down {
+    position: 200px;
+}
+.header-text a i {
+    font-size: 50px;
+    position: relative;
+    top: 250px;   
+    color: white;
+}
+.header-text a i:hover {
+    color: #2E4B73;
+    transform: scale(1.1);
+}
+
+ul li a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: 500;
+    display: inline;
+    padding: 0 60px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #A99B78;
+    border-color: #A99B78;
+}
+.selection {
+    background-color: #F5F6F8;
+    padding: 30px 0;
+}
+.custom-control-inline {
+    margin-top: 1em;
+    font-size: large;
+    font-weight: bold;
+    margin-right: 4rem;
+}
+.slide-area {
+    margin: 60px 0;
+}
+h5 a i,h5 {
+    color: #A99B78;
+}
+
+.about-us {
+    margin-top: 100px;
+    padding: 15% 27%;
+    background-color: #A99B78;
+    position: relative;
+}
+h6 {
+    border: 10px double rgb(105, 94, 66);
+    padding: 10% 10%;
+}
+h2 {
+    text-transform: uppercase;
+    background-color: #A99B78;
+    display: inline;
+    position: absolute;
+    top: 28%;
+    left:43%;
+    padding: 10px 10px;
+}
+.theme {
+    background-color: #525252;
+    color: white;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 15px 0;
+}
+.theme ul li a {
+    padding: 0 10px;
+    font-size: 23px;
+}
+.theme ul li a:hover {
+    color: #1B9CFC;
+}
+
